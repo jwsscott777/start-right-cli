@@ -1,6 +1,6 @@
 {
   "name": "start-right-cli",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "All you need to start building a CLI quikly",
   "bin": {
     "start-right-cli": "index.js",
