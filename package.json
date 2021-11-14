@@ -1,7 +1,7 @@
 {
   "name": "start-right-cli",
   "version": "1.0.0",
-  "description": "All you need to start building a CLI quikly",
+  "description": "All you need to start building a CLI quikly via npx start-right-cli",
   "bin": {
     "start-right-cli": "index.js",
     "ncli": "index.js"
@@ -24,8 +24,16 @@
   },
   "keywords": [
     "start-right-cli",
-    "Semajttocs"
+    "Semajttocs",
+    "James Scott"
   ],
+  "main": "index.js",
+  "repository": "jwsscott777/start-right-cli",
+  "author": {
+      "name": "James Scott",
+      "email": "tlmsols50@gmail.com",
+      "url": "https://twitter.com/@Semajttocs777"
+  },
   "files": [
     "index.js",
     "utils"

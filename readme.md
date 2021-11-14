@@ -4,5 +4,5 @@
 
 ## How to use
 
-> npx start-right-cli# start-right-cli
+> npx start-right-cli
 # start-right-cli
